@@ -8,7 +8,7 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 <hr/>
 
-<h2>Live link 🌍📡 - [  ]</h2>
+<h2>Live link 🌍📡 - [ https://ed-tech-frontend-misf.onrender.com ]</h2>
 <hr/>
 
 
