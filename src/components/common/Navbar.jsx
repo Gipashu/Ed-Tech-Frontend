@@ -3,7 +3,7 @@ import { Link, matchPath, useLocation } from 'react-router-dom'
 import { useSelector } from 'react-redux'
 
 import { NavbarLinks } from "../../data/navbar-links"
-import studyNotionLogo from '../../assets/Logo/logofinal.png'
+import studyNotionLogo from '../../assets/Logo/logofinal1.png'
 import { fetchCourseCategories } from './../../services/operations/courseDetailsAPI';
 
 import ProfileDropDown from '../core/Auth/ProfileDropDown'
