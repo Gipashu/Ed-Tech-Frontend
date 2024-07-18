@@ -5,7 +5,7 @@ import { ImGithub, ImLinkedin2, ImTwitter } from "react-icons/im";
 
 
 // Images
-import StudyNotionLogo from "../../assets/Logo/logofinal.png";
+import StudyNotionLogo from "../../assets/Logo/logofinal1.png";
 
 // footer data
 const BottomFooter = ["Privacy Policy", "Cookie Policy", "Terms"];
