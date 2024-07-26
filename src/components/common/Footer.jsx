@@ -181,7 +181,7 @@ const Footer = () => {
                 Gipashu Aryan
               </Link>
             </div>
-            <span> © 2024 Studynotion</span>
+            <span> © 2024 EduTech</span>
           </div>
 
           <div className="flex items-center">
